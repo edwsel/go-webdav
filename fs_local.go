@@ -10,7 +10,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/emersion/go-webdav/internal"
+	"github.com/edwsel/go-webdav/internal"
 )
 
 type LocalFileSystem string

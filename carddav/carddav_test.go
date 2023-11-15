@@ -8,8 +8,8 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/edwsel/go-webdav"
 	"github.com/emersion/go-vcard"
-	"github.com/emersion/go-webdav"
 )
 
 type testBackend struct{}
